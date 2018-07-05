@@ -3,6 +3,7 @@ package com.example.android.javaclass;
 import android.util.Log;
 
 /**
+// this is a strange comment
  * Created by IT LOBBY on 7/5/2018.
  */
 
